@@ -31,6 +31,7 @@ SOCIAL_MEDIA = {
 }
 PROJECTS = {
     "🗂️ NIGHT_OWL - Movies and TV Series Searching App. An Entertainment Hub Website designed using React to fetch all movie details": "https://night-owl-movie-series-searching.vercel.app/",
+    "🗂️ SMART-SALES - The Website is a comprehensive online platform designed to empower businesses with powerful insights and data-driven decision-making capabilities. This project aims to provide a user-friendly interface for analysing sales data, identifying trends, and making informed business choices.":"https://smart-sales-eda-application.streamlit.app/"
     "🗂️ VEGAN_BRO’S- An Online E-Commerce website where user can buy fresh vegetables and all products of their choice. Technologies used: MERN STACK, Html, CSS, Bootstrap ": "https://github.com/sayokghosh/VeganBros/tree/main",
     "🗂️ HOTEL MANGEMENT SYSTEM - A GUI Application.This is a User Interface project with Tkinter module of Python. It can be used by any Hotel Chain Owners to track and manage of their Customers and Booking Status of their Hotel.Technologies used: Python, Tkinter, Pillow, MySQL ": "https://www.linkedin.com/posts/mayank-jha-9132b8214_python-tkinter-mysql-activity-7086039198490607616-RaOS?utm_source=share&utm_medium=member_desktop",
     "🗂️ FOOD SERVER - A Simple Python's Tkinter GUI Interface for ordering foods and displaying related price details.": "https://www.linkedin.com/posts/mayank-jha-9132b8214_1stproject-tkinter-foodorderingsystem-activity-6964563005153914880-v5U0?utm_source=share&utm_medium=member_desktop",

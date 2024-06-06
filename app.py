@@ -30,6 +30,7 @@ SOCIAL_MEDIA = {
     "Instagram": "https://www.instagram.com/mj_mayankjha/",
 }
 PROJECTS = {
+    "🗂️ Agro_Sense - A cutting-edge agricultural technology platform powered by state-of-the-art machine learning algorithms. Our mission? To empower farmers worldwide with data-driven insights and recommendations, revolutionizing the way crops are grown.": "https://agro-sense-ml-cza4.onrender.com/",
     "🗂️ NIGHT_OWL - Movies and TV Series Searching App. An Entertainment Hub Website designed using React to fetch all movie details": "https://night-owl-movie-series-searching.vercel.app/",
     "🗂️ SMART-SALES - The Website is a comprehensive online platform designed to empower businesses with powerful insights and data-driven decision-making capabilities. This project aims to provide a user-friendly interface for analysing sales data, identifying trends, and making informed business choices.":"https://smart-sales-eda-application.streamlit.app/",
     "🗂️ VEGAN_BRO’S- An Online E-Commerce website where user can buy fresh vegetables and all products of their choice. Technologies used: MERN STACK, Html, CSS, Bootstrap ": "https://github.com/sayokghosh/VeganBros/tree/main",
